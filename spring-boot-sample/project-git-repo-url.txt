@@ -1,0 +1,3 @@
+https://github.com/eugenp/tutorials.git
+https://downloadly.ir/elearning/video-tutorials/spring-hibernate-for-beginners-2/
+https://downloadly.ir/elearning/video-tutorials/spring-framework-5-beginner-to-guru-2/
