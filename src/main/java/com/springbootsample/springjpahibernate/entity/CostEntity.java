@@ -22,4 +22,6 @@ public class CostEntity {
     private long costCategoryId;
     private BigDecimal amount;
     private LocalDate deadline;
+    private String BillImageHash;
+
 }
